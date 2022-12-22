@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![adenijiayocharles](https://circleci.com/gh/adenijiayocharles/operationalize-ml-project.svg?style=svg)](https://app.circleci.com/pipelines/github/adenijiayocharles/operationalize-ml-project)
 
 ## Project Overview
 
