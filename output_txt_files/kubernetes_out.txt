@@ -1,6 +1,5 @@
-Port: 8000
-{
-  "prediction": [
-    20.35373177134412
-  ]
-}
+NAME               READY   STATUS    RESTARTS      AGE
+mludacityproject   1/1     Running   1 (14h ago)   14h
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
